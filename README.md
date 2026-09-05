@@ -1,18 +1,17 @@
-# Hey, I'm Matt 👋
+# Howdy, I'm Matt 👋
 
 I'm an undergraduate **Economics** major at **Texas A&M**, with a growing pull toward tech. I recently added a **Computer Science minor** after a summer as an **Operations & GTM Intern** at **dConstruct Robotics** in Los Angeles, where I get to see physical AI and autonomous robots up close.
 
-I think of myself less as someone locked into one lane and more as a learner working outward from a few fixed points — economics as my grounding in how people, markets, and organizations actually behave, and tech as the newest lens I'm building to look at the same questions.
+I think of myself less as someone locked into one lane and more as a learner working outward from a few fixed points: economics as my grounding in how people, markets, and organizations actually behave, and tech as the newest lens I'm building to look at the same questions.
 
 ---
 
 ### 🌱 Where I'm coming from
 
 - **Economics, from the start**: grew up drawn to the humanities and how systems of
-people work — econ was the natural major. 
+people work. Econ was a natural choice for my major.
 - **International, people-first background**: experience leading a UN-affiliated 
-student organization promoting diplomacy and sustainable development (**MUN Impact**, 171 countries represented), served 2 years of National Service obligations as a firefighter in the **Singapore Civil Defence Force**, currently a consultant at Texas A&M's **180 Degrees pro-bono consulting** chapter. 
-Mostly about organizations and people, not code.
+student organization promoting diplomacy and sustainable development (**MUN Impact**, 171 countries represented), served 2 years of National Service obligations as a firefighter in the **Singapore Civil Defence Force**, currently a consultant at Texas A&M's **180 Degrees pro-bono consulting** chapter. I love sharing the excitement of building something **together**. 
 
 
 ### 🦺 What I'm working on
