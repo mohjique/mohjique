@@ -15,7 +15,8 @@ student organization promoting diplomacy and sustainable development (**MUN Impa
 
 
 ### 🦺 What I'm working on
--- **COMING SOON**
+- QUIZLET2CSV: A windows/macOS app that takes .html saves of Quizlet flashcard sets and outputs them as raw term-definition CSVs. You can then hand the CSVs to AI to generate practice tests, check for factualness, and build study guides –> https://github.com/mohjique/QUIZLET2CSV
+- Hestia: A project between roommates to build homemade IOT devices with the same EPICS library used by leading physics research labs like CERN for control systems. Follow along and watch our apartment become a fully embedded system where every sensor is individually addressable –> https://github.com/almondshawarma/hestia
 
 ### 🚀 Where I'm headed
 
