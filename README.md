@@ -1,6 +1,6 @@
 # Howdy, I'm Matt 👋
 
-I'm an undergraduate **Economics** major at **Texas A&M**, with a growing pull toward tech. I recently added a **Computer Science minor** after a summer as an **Operations & GTM Intern** at **dConstruct Robotics** in Los Angeles, where I get to see physical AI and autonomous robots up close.
+I'm an undergraduate **Economics** major at **Texas A&M**, with a growing pull toward tech. I recently added a **Computer Science minor** after a summer as an **Operations & GTM Intern** at **dConstruct Robotics** in Los Angeles, where I got to see physical AI and autonomous robots up close.
 
 I think of myself less as someone locked into one lane and more as a learner working outward from a few fixed points: economics as my grounding in how people, markets, and organizations actually behave, and tech as the newest lens I'm building to look at the same questions.
 
