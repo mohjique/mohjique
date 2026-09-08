@@ -15,6 +15,7 @@ student organization promoting diplomacy and sustainable development (**MUN Impa
 
 
 ### 🦺 What I'm working on
+- **Deal Intelligence Tracker:** A Gmail automation using Apps Script to take VC/startup finance/M&A newsletters in your Gmail inbox, strip them, feed them to Gemini using a free-tier API key, and populate a Google Sheet with every deal organized by size, industry, and players (my personal setup using a Claude API key has processed 1000+ business events since April 2026) –> https://github.com/mohjique/Gmail-Newsletter-Deal-Intelligence-Tracker
 - **QUIZLET2CSV:** A windows/macOS app that takes .html saves of Quizlet flashcard sets and outputs them as raw term-definition CSVs. You can then hand the CSVs to AI to generate practice tests, check for factualness, and build study guides –> https://github.com/mohjique/QUIZLET2CSV
 - **Hestia:** A project between roommates to build homemade IOT devices with the same EPICS library for control systems used by leading research labs (e.g. CERN). Follow along and watch our apartment become a fully embedded system where every sensor is individually addressable –> https://github.com/almondshawarma/hestia
 
