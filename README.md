@@ -15,6 +15,7 @@ student organization promoting diplomacy and sustainable development (**MUN Impa
 
 
 ### 🦺 What I'm working on
+- **Doomerberg Terminal:** A macroeconomic dashboard that tells a complete story of US monetary policy from 2000 onwards -> https://doomerberg-terminal.vercel.app/
 - **Indoor Navigation Robot:** Working on a wheeled robot that navigates my apartment. Learning IR-SIM, RL, and embodied AI by doing –> https://github.com/mohjique/indoor-navigation-robot
 - **Deal Intelligence Tracker:** A Gmail automation using Apps Script to take VC/startup finance/M&A newsletters in your Gmail inbox, strip them, feed them to Gemini using a free-tier API key, and populate a Google Sheet with every deal organized by size, industry, and players (my personal setup using a Claude API key has processed 1000+ business events since April 2026) –> https://github.com/mohjique/Gmail-Newsletter-Deal-Intelligence-Tracker
 - **QUIZLET2CSV:** A windows/macOS app that takes .html saves of Quizlet flashcard sets and outputs them as raw term-definition CSVs. You can then hand the CSVs to AI to generate practice tests, check for factualness, and build study guides –> https://github.com/mohjique/QUIZLET2CSV
